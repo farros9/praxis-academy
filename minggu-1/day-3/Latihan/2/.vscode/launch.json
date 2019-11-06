@@ -6,21 +6,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - DeprecatedDemo",
-            "request": "launch",
-            "mainClass": "DeprecatedDemo"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - SubClass",
-            "request": "launch",
-            "mainClass": "SubClass"
-        },
-        {
-            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main",
+            "request": "launch",
+            "mainClass": "Main"
         }
     ]
 }
