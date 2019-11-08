@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<kartuNama>
+    <nama>
+        <awal>Petani</awal>
+        <akhir>Kode</akhir>
+    </nama>
+
+    <jenisKelamin>Laki-laki</jenisKelamin>
+
+    <alamat>
+        <dusun>Melati</dusun>
+        <desa>Konoha</desa>
+        <kecamatan>Cakra</kecamatan>
+        <kabupaten>Mataram</kabupaten>
+    </alamat>
+
+    <ponsel>081234567890</ponsel>
+    <surel>info@petanikode.com</surel>
+
+    <sosialMedia>
+        <facebook>petanikode</facebook>
+        <twitter>@petanikode</twitter>
+    </sosialMedia>
+
+    <situsWeb>https://www.petanikode.com</situsWeb>
+</kartuNama>
