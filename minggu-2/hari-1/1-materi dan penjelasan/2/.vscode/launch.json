@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunScript",
+            "request": "launch",
+            "mainClass": "RunScript"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employees",
+            "request": "launch",
+            "mainClass": "Employees"
+        }
+    ]
+}
